@@ -3,7 +3,7 @@
 		// YOUTUBE:
 		var _procesar_datos_youtube = function(datos_recibidos) {
 			var datos = JSON.parse(datos_recibidos);
-			console.log('Datos de yOUTUBE');
+			console.log('Datos de YouTube');
 			console.log(datos);
 			var v = [], id_video = [], id_vi = [];
 
